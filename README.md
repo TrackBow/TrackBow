@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hello, I'm TrackBow!
 
-<!--
-**TrackBow/TrackBow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student specializing in Audiovisual and Multimedia, currently studying at INSA Hauts-de-France. I am looking for an internship to apply my skills and contribute to exciting projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+
+*   **Languages (learning):** Python, C++, C, HTML5, CSS3
+
+---
+
+### 🌱 Currently Learning
+
+I am currently learning how to create graphical user interfaces in C++ with Qt.
+
+---
+
+### 📫 Contact Me
+
+*   **Email:** cottelthibault3@gmail.com
