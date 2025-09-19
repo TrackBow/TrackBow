@@ -25,3 +25,4 @@ I am currently learning how to create graphical user interfaces in C++ with Qt.
 ### 📫 Contact Me
 
 *   **Email:** cottelthibault3@gmail.com
+*   **Linkedin:** https://www.linkedin.com/in/thibault-cottel/
