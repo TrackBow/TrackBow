@@ -12,6 +12,8 @@ I am a student specializing in Audiovisual and Multimedia, currently studying at
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" style="margin-bottom: 5px;"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin-bottom: 5px;"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin-bottom: 5px;"/>
+  <img src="https://img.shields.io/badge/GLFW-Graphics_Library-557DB5?style=for-the-badge" alt="GLFW" style="margin-bottom: 5px;"/>
+  <img src="https://img.shields.io/badge/OpenGL-Renderer-5586A4?style=for-the-badge&logo=opengl" alt="OpenGL" style="margin-bottom: 5px;"/>
 </div>
 
 ---
